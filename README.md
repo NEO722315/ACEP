@@ -16,7 +16,7 @@ ACEP (Adaptive Convergence by Embedding of Protein) detects convergent signal am
 
 ***
 ## Usage
-## Evironment deployment
+## Environment deployment
 The name of conda environment is ACEP.
 ```shell
 conda env create -f environment.yml
